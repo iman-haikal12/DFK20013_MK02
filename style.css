@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+.header {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.menu {
+    background: #555;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+    min-height: 300px;
+}
+
+.footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
